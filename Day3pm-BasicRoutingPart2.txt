@@ -941,7 +941,6 @@ We want to do this,
 if we want to go to 51.51.51.51 we use isp1: do nothing!
 if we want to go to 52.52.52.52 we use isp2(207.7.7.2)
 if we want to go to 53.53.53.53 we use isp3(209.9.9.3)
-
 AMS: access,match,set....
 
 @@@R1: weight is local Only,
